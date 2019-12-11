@@ -1,8 +1,8 @@
 # Formal Languages and Compilers 
 
-## Spring 2019
+## Spring 2020
 
-Course website: [https://github.com/gstew5/cs4100-sp19](https://github.com/gstew5/cs4100-sp19)
+Course website: [https://github.com/gstew5/cs4100-sp20](https://github.com/gstew5/cs4100-sp20)
 
 An upper-level course for CS majors on formal languages theory and compilers. 
 
@@ -10,12 +10,12 @@ Topics (subject to revision): regular expressions; finite automata; context-free
 
 |                       |         Details      |
 |-----------------------|----------------------|
-| **Lecture**           | MWF 12:55-1:50pm Porter 105 |
+| **Lecture**           | T/Th 3:05-4:20pm Walter 235 |
 | **Instructor**        | Gordon Stewart (gstewart@ohio.edu) |
-| **Office Hours**      | M4-5pm, W11am-12pm, Stocker 355 |
+| **Office Hours**      | TBD |
 | **TA**                | Tim Steinberger (ts409415@ohio.edu) |
-| **Lab Hours**         | T3-5pm, Stocker 190 |
-| **Piazza Page**       | [https://piazza.com/ohio/spring2019/cs41005100/home](https://piazza.com/ohio/spring2019/cs41005100/home) |
+| **Lab Hours**         | TBD |
+| **Piazza Page**       | [https://piazza.com/ohio/spring2020/cs41005100/home](https://piazza.com/ohio/spring2020/cs41005100/home) |
 
 ## Texbook
 
@@ -54,22 +54,22 @@ The schedule is subject to revision.
 
 | Week                        | Topic                                 | Reading                        | Assignment |
 |-----------------------------|---------------------------------------|--------------------------------|------------|
-| Week 1 (14 Jan)             | Intro. to the course, compilers, Rust | [The Rust Book](https://doc.rust-lang.org/book/index.html) 1-3 | Q0 (16 Jan) |
-| Week 2 (21 Jan)             | Rust contd. | [The Rust Book](https://doc.rust-lang.org/book/index.html) 4-6, 8 | [PA0: Intro. to Rust](pa/0.md) (25 Jan) |
-| Week 3 (28 Jan)             | **NO CLASS M/W (Stewart away)** Fri: Intro. to PA1 (Tim) | | |
-| Week 4 (4 Feb)              | Virtual machines, bytecode, assemblers | Crafting Interpreters [14](http://www.craftinginterpreters.com/chunks-of-bytecode.html), [15](http://www.craftinginterpreters.com/a-virtual-machine.html) | Q1 (6 Feb) |
-| Week 5 (11 Feb)             | Garbage collection, concurrency | Appel 13 | [PA1: Assembler](pa/1.md) (13 Feb) |
-| Week 6 (18 Feb)             | Intermediate representations, code generation | [Intermediate Representations](doc/ir.md), [Code Generation](doc/codegen.md) | Q2 (21 Feb) |
-| Week 7 (25 Feb)             | Regular languages, regular expressions | Appel 2 (through 2.2), [RE Derivatives](re-derivs.pdf) | [PA2: VM](pa/2.md) (1 Mar) |
-| Week 8 (4 Mar)              | DFAs, NFAs, lexers and lexer generators | Appel 2.3-2.5 | Q3 (6 Mar), Midterm Exam (8 Mar) |
-| Week 9 (11 Mar)             | **SPRING BREAK** | |  |
-| Week 10 (18 Mar)            | Context-free languages, pushdown automata | Appel 3 | [PA3: Runtime](pa/3.md) (24 Mar) |
-| Week 11 (25 Mar)            | Recursive descent and predictive parsing, parser generators | | Q4 (27 Mar) |
-| Week 12 (1 Apr)             | Control-flow graphs, dominators | Appel 7.1, Appel 18.1 | No quiz -- work on PA4! |
-| Week 13 (8 Apr)             | Dataflow/liveness analysis | Appel 10.1 | [PA4: IR](pa/4.md) (14 Apr) |
-| Week 14 (15 Apr)            | Dataflow/liveness analysis continued | Appel 19 (up to but not including 19.1) | Q5 (17 Apr) |
-| Week 15 (22 Apr)            | Register allocation | Appel 11 | [PA5: Optimizations](pa/5.md) (26 Apr) |
-| 29 Apr - 3 May              | **FINAL EXAM PERIOD** | | |
+| Week 1 (13 Jan) | Intro. to the course, compilers, Rust | [The Rust Book](https://doc.rust-lang.org/book/index.html) 1-3 | Q0 (16 Jan) |
+| Week 2 (20 Jan) | Rust contd. | [The Rust Book](https://doc.rust-lang.org/book/index.html) 4-6, 8 | [PA0: Intro. to Rust](pa/0.md) (23 Jan) |
+| Week 3 (27 Jan) | **NO CLASS M/W (Stewart away)** Fri: Intro. to PA1 (Tim) | | |
+| Week 4 (3 Feb)  | Virtual machines, bytecode, assemblers | Crafting Interpreters [14](http://www.craftinginterpreters.com/chunks-of-bytecode.html), [15](http://www.craftinginterpreters.com/a-virtual-machine.html) | Q1 (6 Feb) |
+| Week 5 (10 Feb) | Garbage collection, concurrency | Appel 13 | [PA1: Assembler](pa/1.md) (13 Feb) |
+| Week 6 (17 Feb) | Intermediate representations, code generation | [Intermediate Representations](doc/ir.md), [Code Generation](doc/codegen.md) | Q2 (20 Feb) |
+| Week 7 (24 Feb) | Regular languages, regular expressions | Appel 2 (through 2.2), [RE Derivatives](re-derivs.pdf) | [PA2: VM](pa/2.md) (27 Feb) |
+| Week 8 (2 Mar)  | DFAs, NFAs, lexers and lexer generators | Appel 2.3-2.5 | Q3 (3 Mar), Midterm Exam (5 Mar) |
+| Week 9 (9 Mar-13 Mar)            | **SPRING BREAK** | |  |
+| Week 10 (16 Mar)| Context-free languages, pushdown automata | Appel 3 | [PA3: Runtime](pa/3.md) (19 Mar) |
+| Week 11 (23 Mar)| Recursive descent and predictive parsing, parser generators | | Q4 (26 Mar) |
+| Week 12 (30 Mar)| Control-flow graphs, dominators | Appel 7.1, Appel 18.1 | No quiz -- work on PA4! |
+| Week 13 (6 Apr) | Dataflow/liveness analysis | Appel 10.1 | [PA4: IR](pa/4.md) (9 Apr) |
+| Week 14 (13 Apr)| Dataflow/liveness analysis continued | Appel 19 (up to but not including 19.1) | Q5 (16 Apr) |
+| Week 15 (20 Apr)| Register allocation | Appel 11 | [PA5: Optimizations](pa/5.md) (23 Apr) |
+| Apr. 27-May 1   | **FINAL EXAM** (Thu., April 30 at 12:20pm) | | |
 
 Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**, **Q1**, etc., denote quizzes in Blackboard, generally due on the Wednesdays of weeks without due programming assignments (PAs).
 
