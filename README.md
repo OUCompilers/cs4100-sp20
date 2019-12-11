@@ -16,6 +16,7 @@ Topics (subject to revision): regular expressions; finite automata; context-free
 | **TA**                | Tim Steinberger (ts409415@ohio.edu) |
 | **Lab Hours**         | TBD |
 | **Piazza Page**       | [https://piazza.com/ohio/spring2020/cs41005100/home](https://piazza.com/ohio/spring2020/cs41005100/home) |
+| **GitHub Classroom**  |[https://classroom.github.com/classrooms/58786651-cs4100-sp20](https://classroom.github.com/classrooms/58786651-cs4100-sp20) |
 
 ## Texbook
 
