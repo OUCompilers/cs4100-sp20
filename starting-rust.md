@@ -1,6 +1,6 @@
 # Starting with Rust
 
-Rust has multiple toolchains. For this course, we'll be using a specific version (1.31.1). The easiest way to install Rust 1.31.1 is to first install `rustup`, the Rust version management tool. The directions below should work both on Linux and in Windows (assuming you've first installed the [Windows Linux Subsystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10)). More on installing Rust is available from [the Rust website](https://www.rust-lang.org/tools/install).
+Rust has multiple toolchains. For this course, we'll be using the 1.40.0 release. The easiest way to install Rust is to first install `rustup`, the Rust version management tool. The directions below should work both on Linux and in Windows (assuming you've first installed the [Windows Linux Subsystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10)). More on installing Rust is available from [the Rust website](https://www.rust-lang.org/tools/install).
 
 ## Install Rustup
 
@@ -10,19 +10,37 @@ curl https://sh.rustup.rs -sSf | sh
 
 If you're uncomfortable running a script directly from the internet, you can first inspect the script by visiting the site [https://rustup.rs/](https://rustup.rs/).
 
-## Install Rust `1.31.1`
+## Install Rust `1.40.0`
 
-Once you've successfully installed `rustup`, you can install version `1.31.1` of the Rust compiler simply by doing:
+Once you've successfully installed `rustup`, you can install version `1.40.0` of the Rust compiler simply by doing:
 
 ```
-rustup install 1.31.1
+rustup install 1.40.0
 ```
 
-This step will take a few minutes (it installs the Rust compiler, the package manager, and documentation). You may want to run `rustup component add rls-preview rust-analysis rust-src` to add full Rust Language Server options (Vim users will need this).
+# Rust Tools
+
+In addition to the main rust toolchain, there are a couple of command line tools that will make writing your code easier. You can install these as follows:
+
+```
+rustup component add clippy
+rustup component add rustfmt
+```
+
+Clippy is a linter for Rust that will help you write better code. You can read more about it [here](https://github.com/rust-lang/rust-clippy).
+
+Rustfmt is a code formatter for Rust. You can read more about it [here](https://github.com/rust-lang/rustfmt).
+
+Additionally, if you plan to use the Rust Language Server (rls), you can do that with the following command:
+```
+rustup component add rls-preview rust-analysis rust-src
+```
+
+This is useful for setting up Rust support in your editor of choice (more on this below).
 
 # Accessing Rust Documentation
 
-`rustup` installs an offline version of the Rust Book. To access it, run `rustup doc --book`. You can access the Rust documentation online at [https://doc.rust-lang.org/](https://doc.rust-lang.org/).
+`rustup` installs an offline version of the Rust Book. To access it, run `rustup doc --book`. You can also access the Rust documentation online at [https://doc.rust-lang.org/](https://doc.rust-lang.org/).
 
 # Setting up Your Editor
 
@@ -49,6 +67,12 @@ To your .emacs file. More information on rust-mode (including configuring MELPA)
 ### Sublime
 
 Install the `Rust Enhanced` package. More information on the package can be found [here](https://github.com/rust-lang/rust-enhanced).
+
+### VSCode
+
+Install the `Rust (rls)` extension. More information can be found [here](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust).
+
+There are other extensions, but I recommend this one since it is written by the Rust team.
 
 ### Vim/Neovim
 
