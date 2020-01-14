@@ -12,9 +12,9 @@ Topics (subject to revision): regular expressions; finite automata; context-free
 |-----------------------|----------------------|
 | **Lecture**           | T/Th 3:05-4:20pm Walter 235 |
 | **Instructor**        | Gordon Stewart (gstewart@ohio.edu) |
-| **Office Hours**      | TBD |
+| **Office Hours**      | T 1-3pm Stocker 355 |
 | **TA**                | Tim Steinberger (ts409415@ohio.edu) |
-| **Lab Hours**         | TBD |
+| **Lab Hours**         | T 4:30-5:30pm, Th 4:30-6:30pm Stocker 307 |
 | **Piazza Page**       | [https://piazza.com/ohio/spring2020/cs41005100/home](https://piazza.com/ohio/spring2020/cs41005100/home) |
 | **GitHub Classroom**  |[https://classroom.github.com/classrooms/58786651-cs4100-sp20](https://classroom.github.com/classrooms/58786651-cs4100-sp20) |
 
