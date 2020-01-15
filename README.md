@@ -2,7 +2,7 @@
 
 ## Spring 2020
 
-Course website: [https://github.com/gstew5/cs4100-sp20](https://github.com/gstew5/cs4100-sp20)
+Course website: [https://github.com/OUCompilers/cs4100-sp20](https://github.com/gstew5/cs4100-sp20)
 
 An upper-level course for CS majors on formal languages theory and compilers. 
 
@@ -15,7 +15,7 @@ Topics (subject to revision): regular expressions; finite automata; context-free
 | **Office Hours**      | T/Th 2-3pm Stocker 355 |
 | **TA**                | Tim Steinberger (ts409415@ohio.edu) |
 | **GA**                | Marc Baltes (mb800915@ohio.edu) |
-| **Lab Hours**         | T 4:30-5:30pm, Th 4:30-6:30pm Stocker 307 |
+| **Lab Hours**         | T 4:30-5:30pm in TBD, Th 4:30-6:30pm in Stocker 307 |
 | **Piazza Page**       | [https://piazza.com/ohio/spring2020/cs41005100/home](https://piazza.com/ohio/spring2020/cs41005100/home) |
 | **GitHub Classroom**  |[https://classroom.github.com/classrooms/58786651-cs4100-sp20](https://classroom.github.com/classrooms/58786651-cs4100-sp20) |
 
