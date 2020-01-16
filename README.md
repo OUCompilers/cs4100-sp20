@@ -58,7 +58,7 @@ The schedule is subject to revision.
 |-----------------------------|---------------------------------------|--------------------------------|------------|
 | Week 1 (13 Jan) | Intro. to the course, compilers, Rust | [The Rust Book](https://doc.rust-lang.org/book/index.html) 1-3 | Q0 (16 Jan) |
 | Week 2 (20 Jan) | Rust contd. | [The Rust Book](https://doc.rust-lang.org/book/index.html) 4-6, 8 | [PA0: Intro. to Rust](pa/0.md) (23 Jan) |
-| Week 3 (27 Jan) | **NO CLASS M/W (Stewart away)** Fri: Intro. to PA1 (Tim) | | |
+| Week 3 (27 Jan) | Rust contd. Thu: Intro. to PA1 (Tim) | | |
 | Week 4 (3 Feb)  | Virtual machines, bytecode, assemblers | Crafting Interpreters [14](http://www.craftinginterpreters.com/chunks-of-bytecode.html), [15](http://www.craftinginterpreters.com/a-virtual-machine.html) | Q1 (6 Feb) |
 | Week 5 (10 Feb) | Garbage collection, concurrency | Appel 13 | [PA1: Assembler](pa/1.md) (13 Feb) |
 | Week 6 (17 Feb) | Intermediate representations, code generation | [Intermediate Representations](doc/ir.md), [Code Generation](doc/codegen.md) | Q2 (20 Feb) |
