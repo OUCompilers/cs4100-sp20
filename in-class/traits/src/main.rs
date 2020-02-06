@@ -48,6 +48,8 @@ impl FromStr for Instr {
     }
 }
 
+//Do TopHat question
+
 impl ToString for Instr {
     fn to_string(&self) -> String {
         match self {
