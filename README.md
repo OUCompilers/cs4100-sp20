@@ -2,7 +2,7 @@
 
 ## Spring 2020
 
-Course website: [https://github.com/OUCompilers/cs4100-sp20](https://github.com/gstew5/cs4100-sp20)
+Course website: [https://github.com/OUCompilers/cs4100-sp20](https://github.com/OUCompilers/cs4100-sp20)
 
 An upper-level course for CS majors on formal languages theory and compilers. 
 
