@@ -62,8 +62,8 @@ The schedule is subject to revision.
 | Week 4 (3 Feb)  | Virtual machines, bytecode, assemblers | Crafting Interpreters [14](http://www.craftinginterpreters.com/chunks-of-bytecode.html), [15](http://www.craftinginterpreters.com/a-virtual-machine.html) | Q1 (6 Feb) |
 | Week 5 (10 Feb) | Garbage collection, concurrency | Appel 13 | [PA1: Assembler](pa/1.md) (13 Feb) |
 | Week 6 (17 Feb) | Intermediate representations, code generation | [Intermediate Representations](doc/ir.md), [Code Generation](doc/codegen.md) | Q2 (20 Feb) |
-| Week 7 (24 Feb) | Regular languages, regular expressions | Appel 2 (through 2.2), [RE Derivatives](re-derivs.pdf) | [PA2: VM](pa/2.md) (27 Feb) |
-| Week 8 (2 Mar)  | DFAs, NFAs, lexers and lexer generators | Appel 2.3-2.5 | Q3 (3 Mar), Midterm Exam (5 Mar) |
+| Week 7 (24 Feb) | Regular languages, regular expressions | Appel 2 (through 2.2), [RE Derivatives](re-derivs.pdf) | Q3 (27 Feb)  |
+| Week 8 (2 Mar)  | DFAs, NFAs, lexers and lexer generators | Appel 2.3-2.5 | [PA2: VM](pa/2.md) (3 Mar), Midterm Exam (5 Mar) |
 | Week 9 (9 Mar-13 Mar)            | **SPRING BREAK** | |  |
 | Week 10 (16 Mar)| Context-free languages, pushdown automata | Appel 3 | [PA3: Runtime](pa/3.md) (19 Mar) |
 | Week 11 (23 Mar)| Recursive descent and predictive parsing, parser generators | | Q4 (26 Mar) |
