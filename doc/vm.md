@@ -508,6 +508,14 @@ Post-state (`b == true`):
 | -- | ----- | 
 | target | ... STACK_TOP | 
 
+Post-state (`b == false`):
+
+| pc | stack | 
+| -- | ----- | 
+| cur_pc+1(*) | ... STACK_TOP | 
+
+(*) Technically, `cur_pc` is incremented right before `Branch` begins executing. 
+
 ### Halt
 
 Unconditionally halt the machine.
