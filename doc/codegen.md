@@ -145,7 +145,7 @@ We can optimize this pattern slightly, by recognizing that `branch` falls throug
   instrs_cond ++ 
   [push _Lthen, branch] ++
   instrs2 ++ [push true, push _Lend, branch] ++  
-  [_Lthen:] ++ instrs1 ++ [push true, push _Lend, branch] ++
+  [_Lthen:] ++ instrs1 ++
   [_Lend:]
 ```  
 
