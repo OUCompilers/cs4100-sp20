@@ -310,7 +310,7 @@ Question for self-study: What's wrong with setting the frame pointer *before* ex
 
 ### Function Definitions
 
-Function in Grumpy have form: 
+Functions in Grumpy have form: 
 
 ```
    fn ::= (fun f param1 param2 ... paramN -> ty e) //Function definitions
