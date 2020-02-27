@@ -236,13 +236,13 @@ Post-state:
 
 ### Peek(i)
 
-Copy the value at the `i`th position from the top of the stack onto the top of the stack.
+Copy the value at the `i`th position from the top of the stack onto the top of the stack. The first value has index `1`.
 
 Pre-state:
 
 | stack |
 | ----- |
-| vi ... v1 v0 STACK_TOP |
+| vi ... v1 STACK_TOP |
 
 Post-state:
 
