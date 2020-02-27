@@ -248,7 +248,7 @@ Post-state:
 
 | stack |
 | ----- |
-| vi ... v1 v0 vi STACK_TOP |
+| vi ... v1 vi STACK_TOP |
 
 ### Unary(u)
 
