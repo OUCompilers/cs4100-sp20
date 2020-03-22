@@ -82,7 +82,7 @@ Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**,
 * [NFAs -> DFAs](https://ohiouniversity.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ccee1a2f-ce76-4d81-b375-ab86011ccad8)
 * [Regular Expressions -> NFAs](https://ohiouniversity.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e759b08-1abf-4d6c-95f4-ab8601247633)
 * [Context-free languages](https://ohiouniversity.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a41e82fa-f072-4bda-9030-ab86012a16eb)
-* [Parse trees, ambiguity]
+* [Parse trees, ambiguity](https://ohiouniversity.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72347ea6-9b2f-49db-ae88-ab8601592542)
 
 ### Week 12 (30 Mar)
 
