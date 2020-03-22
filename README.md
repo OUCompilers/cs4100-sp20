@@ -64,12 +64,12 @@ The schedule is subject to revision.
 | Week 6 (17 Feb) | Intermediate representations, code generation | [Intermediate Representations](doc/ir.md), [Code Generation](doc/codegen.md) | Q2 (20 Feb) |
 | Week 7 (24 Feb) | Regular languages, regular expressions | Appel 2 (through 2.2), [RE Derivatives](re-derivs.pdf) | Q3 (27 Feb)  |
 | Week 8 (2 Mar)  | DFAs, NFAs, lexers and lexer generators | Appel 2.3-2.5 | [PA2: VM](pa/2.md) (3 Mar), Midterm Exam (5 Mar) |
-| Week 9 (9 Mar-13 Mar)            | **SPRING BREAK** | |  |
-| Week 10 (16 Mar)| Context-free languages, pushdown automata | Appel 3 | Q4 (17 Mar) |
-| Week 11 (23 Mar)| Recursive descent and predictive parsing, parser generators | | [PA3: Runtime](pa/3.md) (26 Mar) |
-| Week 12 (30 Mar)| Control-flow graphs, dominators | Appel 7.1, Appel 18.1 | No quiz -- work on PA4! |
-| Week 13 (6 Apr) | Dataflow/liveness analysis | Appel 10.1 | [PA4: IR](pa/4.md) (9 Apr) |
-| Week 14 (13 Apr)| Dataflow/liveness analysis continued | Appel 19 (up to but not including 19.1) | Q5 (16 Apr) |
+| Week 9 (9 Mar-13 Mar) | **SPRING BREAK** | |  |
+| Week 10 (16 Mar)| **SPRING BREAK** |  | Q4 (17 Mar) |
+| Week 11 (23 Mar)| Context-free languages, pushdown automata | Appel 3 | [PA3: Runtime](pa/3.md) (26 Mar) |
+| Week 12 (30 Mar)| Recursive descent and predictive parsing, parser generators | Appel 7.1, Appel 18.1 | No quiz -- work on PA4! |
+| Week 13 (6 Apr) | Control-flow graphs, dominators | Appel 7.1, Appel 18.1 | [PA4: IR](pa/4.md) (9 Apr) |
+| Week 14 (13 Apr)| Dataflow/liveness analysis | Appel 10.1, Appel 19 (up to but not including 19.1) | Q5 (16 Apr) |
 | Week 15 (20 Apr)| Register allocation | Appel 11 | [PA5: Optimizations](pa/5.md) (23 Apr) |
 | Apr. 27-May 1   | **FINAL EXAM** (Thu., April 30 at 12:20pm) | | |
 
