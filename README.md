@@ -77,7 +77,19 @@ Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**,
 
 ## Video Lectures
 
-* [Context-free languages](https://ohiouniversity.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=3e759b08-1abf-4d6c-95f4-ab8601247633&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all)
+### Week 11 (23 Mar)
+
+* [NFAs -> DFAs](https://ohiouniversity.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ccee1a2f-ce76-4d81-b375-ab86011ccad8)
+* [Regular Expressions -> NFAs](https://ohiouniversity.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e759b08-1abf-4d6c-95f4-ab8601247633)
+* [Context-free languages](https://ohiouniversity.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a41e82fa-f072-4bda-9030-ab86012a16eb)
+* [Parse trees, ambiguity]()
+
+### Week 12 (30 Mar)
+
+* [Pushdown automata]()
+* [Predictive parsing]()
+* [First and follow sets]()
+* [LR(k) parsing]()
 
 ## Homework and Collaboration Policies
 
