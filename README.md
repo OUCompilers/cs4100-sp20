@@ -75,6 +75,10 @@ The schedule is subject to revision.
 
 Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**, **Q1**, etc., denote quizzes in Blackboard, generally due on the Wednesdays of weeks without due programming assignments (PAs).
 
+## Video Lectures
+
+* [Context-free languages](https://ohiouniversity.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=3e759b08-1abf-4d6c-95f4-ab8601247633&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all)
+
 ## Homework and Collaboration Policies
 
 ### Acceptable Collaboration Matrix
