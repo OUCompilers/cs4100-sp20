@@ -68,10 +68,10 @@ The schedule is subject to revision.
 | Week 10 (16 Mar)| **SPRING BREAK** |  | Q4 (17 Mar) |
 | Week 11 (23 Mar)| Context-free languages, pushdown automata | Appel 3 | [PA3: Runtime](pa/3.md) (26 Mar) |
 | Week 12 (30 Mar)| Recursive descent and predictive parsing, parser generators | Appel 7.1, Appel 18.1 | No quiz -- work on PA4! |
-| Week 13 (6 Apr) | Control-flow graphs, dominators | Appel 7.1, Appel 18.1 | [PA4: IR](pa/4.md) (9 Apr) |
-| Week 14 (13 Apr)| Dataflow/liveness analysis | Appel 10.1, Appel 19 (up to but not including 19.1) | Q5 (16 Apr) |
-| Week 15 (20 Apr)| Register allocation | Appel 11 | [PA5: Optimizations](pa/5.md) (23 Apr) |
-| Apr. 27-May 1   | **FINAL EXAM** (Thu., April 30 at 12:20pm) | | |
+| Week 13 (6 Apr) | Control-flow graphs, dominators | Appel 7.1, Appel 18.1 | Q5 (9 Apr) |
+| Week 14 (13 Apr)| Dataflow/liveness analysis | Appel 10.1, Appel 19 (up to but not including 19.1) | [PA4: IR](pa/4.md) (16 Apr) |
+| Week 15 (20 Apr)| Register allocation | Appel 11 | No quiz -- study for final |
+| Apr. 27-May 1   | **FINAL EXAM** (Thu., April 30 at 12:20pm) | | [EC PA5: Optimizations](pa/5.md) (30 Apr) |
 
 Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**, **Q1**, etc., denote quizzes in Blackboard, generally due on the Wednesdays of weeks without due programming assignments (PAs).
 
@@ -86,10 +86,7 @@ Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**,
 
 ### Week 12 (30 Mar)
 
-* [Pushdown automata]
-* [Predictive parsing]
-* [First and follow sets]
-* [LR(k) parsing]
+This and later weeks, we'll do lectures directly in Teams.
 
 ## Homework and Collaboration Policies
 
