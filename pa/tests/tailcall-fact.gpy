@@ -1,0 +1,8 @@
+(fun tailcallfact (acc i32) (x i32) -> i32
+  (cond (< x 1)
+        acc
+	(tailcallfact (* x acc) (- x 1))))
+
+%
+
+(tailcallfact 1 5)
